@@ -14,16 +14,16 @@ I am a researcher specializing in **bioinformatics, computational biology, and m
 
 ## 📂 Projects
 - **Alternative Splicing in Nepl15 and Nep1 Genes (Drosophila, rMATS)**  
-  Investigated splicing patterns of neprilysin genes to study peptide hormone regulation.  
+  Investigated splicing patterns of neprilysin genes to study peptide hormone regulation.
+
+ - **Statistical Modeling in R**  
+  Created a linear model to predict weight from body girth measurements.  
 
 - **RNA-seq Analysis of Salt Response in Cotton (Command Line Tools)**  
   Performed differential expression analysis of ERF transcription factors.  
 
 - **Frequent k-mers in the SARS-CoV-2 Genome (Python)**  
-  Identified frequent sequence motifs for genome analysis.  
-
-- **K-mer Sequence Assembler (C++)**  
-  Implemented genome assembly using k-mer sequence methods.  
+  Identified frequent sequence motifs for genome analysis.   
 
 - **Transcriptome Assembly in Drosophila (STAR & HISAT2)**  
   Assembled transcriptomes of ovary and testis tissues from RNA-seq data.  
@@ -36,9 +36,6 @@ I am a researcher specializing in **bioinformatics, computational biology, and m
 
 - **Cellular Dynamics of Drosophila Visual Development (Seurat, R)**  
   Conducted single-cell RNA-seq analysis of visual system development.  
-
-- **Statistical Modeling in R**  
-  Created a linear model to predict weight from body girth measurements.  
 
 ## 📫 Contact
 - GitHub: (https://github.com/RaghdaKailany]  
